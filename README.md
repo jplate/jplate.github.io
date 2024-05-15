@@ -1,3 +1,4 @@
 # jplate.github.io
 Jan Plate's homepage on GitHub
-![b3732](https://github.com/jplate/jplate.github.io/assets/3945422/00e6cacc-3824-44fb-b0ec-fceff23afa87)
+
+![20240212_123604a](https://github.com/jplate/jplate.github.io/assets/3945422/84819805-be31-43a6-a1c8-a3446a1c9700)
